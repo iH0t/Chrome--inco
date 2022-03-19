@@ -1,2 +1,2 @@
-# Chrome--inco
+# Chrome--incognito
 Save as .app
